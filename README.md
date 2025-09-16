@@ -19,6 +19,7 @@ It allows users to browse products, search, add them to the cart, place orders, 
 
 ## 🖼️ UI Screenshots
 
+
 <p float="left">
   <img src="screenshots/home_page.png" width="200" />
   <img src="screenshots/product_details.png" width="200" />
@@ -46,3 +47,34 @@ It allows users to browse products, search, add them to the cart, place orders, 
    ```bash
    git clone https://github.com/USERNAME/cartsy.git
    cd cartsy
+=======
+
+<p float="left">
+  <img src="screenshots/home_page.png" width="200" />
+  <img src="screenshots/product_details.png" width="200" />
+  <img src="screenshots/cart_page.png" width="200" />
+  <img src="screenshots/order_details.png" width="200" />
+  <img src="screenshots/edit_order.png" width="200" />
+  <img src="screenshots/add_address.png" width="200" />
+</p>
+
+
+---
+
+## 🛠️ Tech Stack
+- **Flutter & Dart**
+- **Bloc / Cubit** for state management
+- **Firebase**
+- **RESTful API**
+- **SQLite**
+- **Shared Preferences**
+
+---
+
+## 🚀 Getting Started
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/USERNAME/cartsy.git
+   cd cartsy
+
+>>>>>>> 73b178abfad7ff9bc02d1cbb4a4d40961482dccf
