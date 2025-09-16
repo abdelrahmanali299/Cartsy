@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1027439348042",
+    "project_id": "cartsy-172ca",
+    "storage_bucket": "cartsy-172ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027439348042:android:43793a06dafbcc814a59b3",
+        "android_client_info": {
+          "package_name": "com.example.fake_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027439348042-h7s0jf8v80jgssolbh35dgujja7mafg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCJULCW5b-XurwKwnZDMb0p8kE9hoJNrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027439348042-h7s0jf8v80jgssolbh35dgujja7mafg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
