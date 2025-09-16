@@ -1,5 +1,4 @@
 import 'package:fake_store/features/order/data/models/order_model.dart';
-import 'package:fake_store/features/order/presentation/views/edit_order.dart';
 import 'package:flutter/material.dart';
 
 class OrderItem extends StatelessWidget {
