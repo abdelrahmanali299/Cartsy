@@ -1,16 +1,49 @@
-# fake_store
+# 🛒 Cartsy
 
-A new Flutter project.
+Cartsy is an **E-Commerce application** built with Flutter.  
+It allows users to browse products, search, add them to the cart, place orders, and edit existing orders.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- Display a list of products.
+- Search for products.
+- Add products to the shopping cart.
+- Manage orders (Add / Edit).
+- Supports **RESTful API** for fetching data.
+- Local storage with **SQLite** and **Shared Preferences**.
+- Integration with **Firebase** for authentication and storage.
+- Modern design using **Flutter & Dart**.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🖼️ UI Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+  <img src="screenshots/home_page.png" width="200" />
+  <img src="screenshots/product_details.png" width="200" />
+  <img src="screenshots/cart_page.png" width="200" />
+  <img src="screenshots/order_details.png" width="200" />
+  <img src="screenshots/edit_order.png" width="200" />
+  <img src="screenshots/add_address.png" width="200" />
+</p>
+
+
+---
+
+## 🛠️ Tech Stack
+- **Flutter & Dart**
+- **Bloc / Cubit** for state management
+- **Firebase**
+- **RESTful API**
+- **SQLite**
+- **Shared Preferences**
+
+---
+
+## 🚀 Getting Started
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/USERNAME/cartsy.git
+   cd cartsy
+
